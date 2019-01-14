@@ -1,0 +1,11 @@
+{
+    "presets":["@babel/preset-env"],
+    "plugins": [
+        "transform-member-expression-literals",
+        "transform-property-literals",
+        "@babel/plugin-transform-reserved-words"
+    ],
+    "ignore": [
+        "node_modules"
+    ]
+}
