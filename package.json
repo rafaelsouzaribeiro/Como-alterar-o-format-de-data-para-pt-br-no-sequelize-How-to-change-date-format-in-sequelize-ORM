@@ -20,7 +20,6 @@
     "connect": "latest",
     "connect-flash": "latest",
     "debug": "^4.1.1",
-    "ejs": "~2.3.3",
     "express": "^4.16.4",
     "fs-extra": "latest",
     "guid": "0.0.12",
